@@ -1,0 +1,17 @@
+body {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./Image/bg-img.webp);
+}
+
+p{
+    font-size: 6rem;
+    color: #fff;
+    text-shadow: 0 0 5px #fff,
+                 0 0 15px #fff,
+                 0 0 20px #228dff,
+                 0 0 35px #228dff,
+                 0 0 40px #228dff;
+}
